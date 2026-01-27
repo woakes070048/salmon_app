@@ -1,3 +1,3 @@
 {
-  "API_BASE_URL": "https://dev-salmon.siumang.com"
+  "API_BASE_URL": "http://localhost:8080"
 }
